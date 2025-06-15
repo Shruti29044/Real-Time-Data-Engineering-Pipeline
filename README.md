@@ -52,11 +52,11 @@ pip install -r requirements.txt
 
 3. Start Kafka Services
 
-# Terminal 1: Start Zookeeper
+Terminal 1: Start Zookeeper
 
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
-# Terminal 2: Start Kafka Broker
+Terminal 2: Start Kafka Broker
 
 bin/kafka-server-start.sh config/server.properties
 
@@ -66,7 +66,7 @@ spark-submit spark/stream_processor.py
 
 5. Start PostgreSQL
 
-# OR use Docker
+OR use Docker
 
 docker run -d -p 5432:5432 --name pg -e POSTGRES_PASSWORD=admin postgres
 

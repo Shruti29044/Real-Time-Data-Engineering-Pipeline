@@ -74,7 +74,7 @@ docker run -d -p 5432:5432 --name pg -e POSTGRES_PASSWORD=admin postgres
 
 aws configure
 
-# Add your S3 bucket settings in config.py
+Add your S3 bucket settings in config.py
 
 7. Optional: Launch Airflow
 

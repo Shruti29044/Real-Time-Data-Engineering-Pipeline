@@ -1,0 +1,7 @@
+{
+  "user_id": 101,
+  "event_type": "purchase",
+  "product_id": "SKU12345",
+  "amount": 49.99,
+  "timestamp": "2025-06-08T15:45:23Z"
+}

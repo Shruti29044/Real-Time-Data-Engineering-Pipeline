@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": 101,
+    "event_type": "purchase",
+    "product_id": "SKU12345",
+    "amount": 49.99,
+    "timestamp": "2025-06-08T15:45:23Z"
+  },
+  {
+    "user_id": 102,
+    "event_type": "click",
+    "product_id": "SKU98765",
+    "amount": 0,
+    "timestamp": "2025-06-08T15:45:25Z"
+  }
+]

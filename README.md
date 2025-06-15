@@ -1,4 +1,4 @@
-🛠️ Real-Time Data Engineering Pipeline
+🛠️ Real-Time Data Engineering Pipeline with kafka, spark and AWS
 
 This project builds a real-time data engineering pipeline that streams data using Apache Kafka, processes it using Apache Spark, stores it in PostgreSQL, and optionally integrates with AWS S3 for long-term storage. It's orchestrated with Apache Airflow for production-grade scheduling and monitoring.
 
